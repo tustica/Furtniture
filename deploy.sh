@@ -9,6 +9,6 @@ cd dist
 git init
 git add -A 
 git commit -m 'TimRoom'
-git push -f https://github.com/tustica/FurnitureBuisness.git master:timroom
+git push -f https://github.com/tustica/FurnitureSite.git master:timroom
 
 cd -
